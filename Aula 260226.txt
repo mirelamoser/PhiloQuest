@@ -18,6 +18,6 @@ Planejar os sprints
 - pagina de login (matricula e senha)
 - mural do aluno (atividades feitas, atividades a refazer, turma a qual pertence, rankins, progresso dos ciclos)
 - mural do professor (adiciona/remove turma, tarefas pendentes para correção, progresso das turmas)
-- tela administrador (adiciona/remove professor, remove aluno)
-- ciclo 1 (poder inserir uma pergunta e ou anexo)
-
+- tela administrador (adiciona/remove professor, remove aluno, relatório de quantidade de cada tipo de cadastro)
+- ciclo 1 (aluno insere um problema e/ou anexo)
+- ciclo 2 (aluno cria de 6 à 10 perguntas sobre o problema levantado no ciclo 1)
